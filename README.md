@@ -1,6 +1,6 @@
 # Bash
 ![](.img/bash.jpeg)
-## prueba
+## prueba2
 ## Descargar dominios muertos de diciembre del 2020
 1. `codigo.sh`
 
